@@ -3,4 +3,6 @@ for learningpurposes
 
 great help 
 -yadni 
-trying to make a merge conflict 
+
+-this is example of making a merge conflict
+
